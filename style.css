@@ -29,6 +29,7 @@ li{
     display:flex;
     flex-direction:row;
     gap:15px;
+    font-weight:300;
 }
 
 li img{
